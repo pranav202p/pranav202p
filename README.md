@@ -33,9 +33,10 @@ I am Pranav, a passionate Web Developer with a keen interest in building dynamic
   <a href="https://spring.io/projects/spring-boot" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original-wordmark.svg" alt="springboot" width="40" height="40"/>
   </a>
-  <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.worldvectorlogo.com/logos/apache-kafka.svg" alt="kafka" width="40" height="40"/>
-  </a>
+<a href="https://kafka.apache.org/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apachekafka/apachekafka-original-wordmark.svg" alt="kafka" width="40" height="40"/>
+</a>
+
 </p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=pranav202p&show_icons=true&locale=en&layout=compact" alt="pranav202p" /></p>
