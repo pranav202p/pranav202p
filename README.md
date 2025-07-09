@@ -6,7 +6,7 @@
 ### Introduction
 I am Pranav, a passionate Web Developer with a keen interest in building dynamic and responsive web applications. With a focus on the MERN stack, I enjoy crafting user-friendly and efficient solutions. Currently pursuing my Computer Applications degree, I'm always eager to learn and explore new technologies.
 
-- 👨‍💻 All of my projects are available at [pranav-personal-portfolio.vercel.app/](pranav-personal-portfolio.vercel.app/)
+- 👨‍💻 All of my projects are available at **pranav-personal-portfolio.vercel.app**
 
 - 📫 How to reach me **pranavpravi2002@gmail.com**
 
