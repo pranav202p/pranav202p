@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Pranav</h1>
-<h3 align="center">A passionate Web Developer</h3>
+<h3 align="center">A passionate SoftWare Developer</h3>
 
 <img align="center" src="https://github.com/pranav202p/image/blob/e5c08afd1e1d14278781dba27c6486cd115e0644/Untitled%20(2).png" alt="Pranav's Image" width="150" style="border-radius: 50%;"/>
 
